@@ -21,7 +21,7 @@ const Contact = () => {
 
   const formSubmit = (event) => {
     event.preventDefault();
-    alert(`My name is ${data.fullname}. My Mobile number is ${data.phone} `);
+    //alert(`My name is ${data.fullname}. My Mobile number is ${data.phone} `);
   };
 
   return (
